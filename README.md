@@ -38,10 +38,12 @@ Looks like this:
 
 ![](http://i.imgur.com/QG91eEO.png)
 
+Don't you love the beauty of ExtJS? ...
+
 ###Why?!
 
 Just wanted to try out ExtJS. If you are one of the five people still using
-OGo and would like write an ExtJS frontend for it - this is a good place to
+OGo and you would like write an ExtJS frontend for it - this is a good place to
 start ;-)
 
 ###Contact
