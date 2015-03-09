@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>OGoWS</title>
+    
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    
+    <script>
+      // this doesn't send a proper Accept header (but */*)
+      var jp = "http://127.0.0.1:8181/OGoWS/persons/?callback=?&format=json";
+      var cj = "http://127.0.0.1:8181/OGoWS/persons/?format=json";
+      $.getJSON(
+        jp,
+        function(r) {
+          $('#result').text(JSON.stringify(r));
+        }
+      );
+    </script>
+  </head>
+  
+  <body>
+    Hello World, component: <#WOString var:value="name"/>
+    
+    <#WOString var:value="context.request.url" />
+    
+    <p id="result">
+    </p>
+  </body>
+</html>
