@@ -2,7 +2,7 @@ OGoWebService
 =============
 
 OGoWS exposes some OGo/J functionality as a JSON WebService API. Created to
-provide a backend to some ExtJS 5 toy application. Include, see YoYoGo below.
+provide a backend to some ExtJS 5 toy application. Included, see YoYoGo below.
 
 ## Setup
 
@@ -43,8 +43,8 @@ Don't you love the beauty of ExtJS? ...
 ###Why?!
 
 Just wanted to try out ExtJS. If you are one of the five people still using
-OGo and you would like write an ExtJS frontend for it - this is a good place to
-start ;-)
+OGo and you would like to write an ExtJS frontend for it - this is a good place
+to start ;-)
 
 ###Contact
 
