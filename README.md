@@ -1,7 +1,8 @@
-# OGoWS
+OGoWebService
+=============
 
-This exposes some OGo(J) functionality as a JSON WebService API. I created this
-to provide a backend to some ExtJS 5 toy application.
+OGoWS exposes some OGo/J functionality as a JSON WebService API. Created to
+provide a backend to some ExtJS 5 toy application. Include, see YoYoGo below.
 
 ## Setup
 
@@ -22,7 +23,31 @@ Sample:
 All quite clumsy ;-) And it might still not work quite right (the browser might
 prompt you again for auth credentials - depends on the browser).
 
+To run the service, start the main func in org.opengroupware.ws.OGoWS.
+
 When running the app, you can check whether the service works via:
 
     http://127.0.0.1:8181/OGoWS/
 
+## YoYoGo
+
+You can find a tiny ExtJS 5.1 application in the YoYoGo folder. Just a proof
+of concept on how to do this stuff.
+
+Looks like this:
+
+![](http://i.imgur.com/QG91eEO.png)
+
+Don't you love the beauty of ExtJS? ...
+
+###Why?!
+
+Just wanted to try out ExtJS. If you are one of the five people still using
+OGo and you would like write an ExtJS frontend for it - this is a good place to
+start ;-)
+
+###Contact
+
+[@helje5](http://twitter.com/helje5) | helge@alwaysrightinstitute.com
+
+![](http://www.alwaysrightinstitute.com/ARI.png)
