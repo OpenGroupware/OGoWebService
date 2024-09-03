@@ -40,14 +40,14 @@ Looks like this:
 
 Don't you love the beauty of ExtJS? ...
 
-###Why?!
+### Why?!
 
 Just wanted to try out ExtJS. If you are one of the five people still using
 OGo and you would like to write an ExtJS frontend for it - this is a good place
 to start ;-)
 
-###Contact
+### Contact
 
-[@helje5](http://twitter.com/helje5) | helge@alwaysrightinstitute.com
+[@helge@mastodon.social](https://mastodon.social/@helge)
 
 ![](http://www.alwaysrightinstitute.com/ARI.png)
